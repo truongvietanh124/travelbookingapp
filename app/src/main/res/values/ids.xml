@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="bgImage" type="id" />
+    <item name="emailLayout" type="id" />
+    <item name="passwordLayout" type="id" />
+    <item name="editTextPassword" type="id" />
+    <item name="rememberMe" type="id" />
+    <item name="tvForgotPassword" type="id" />
+    <item name="btnSignIn" type="id" />
+    <item name="btnGoogleLogin" type="id" />
+    <item name="btnFacebookLogin" type="id" />
+    <item name="btnSignUp" type="id" />
+    <item name="progressBar" type="id" />
+    <item name="tvDontHaveAccount" type="id" />
+    <item name="login_root" type="id" />
+</resources>

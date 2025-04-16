@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login_logout_button">Đăng xuất</string>
+    <string name="sologan">Du lịch đến 36 địa điểm</string>
+    <string name="get_started">Bất đầu</string>
+    <string name="passengers">Hành khách</string>
+    <string name="search_flights">Tìm chuyến bay</string>
+    <string name="from">Từ</string>
+    <string name="to">Đến</string>
+    <string name="toShort">Đến</string>
+    <string name="intro_title">Bay ở bất cứ đâu dễ dàng mà không có chướng ngại vật</string>
+    <string name="action_settings">Cài đặt</string>
+    <string name="welcome">Chào mừng</string>
+    <string name="loginbygg">Đăng nhập bằng Google</string>
+    <string name="loginotp">Đăng nhập bằng số điện thoại</string>
+    <string name="password">Mật khẩu</string>
+    <string name="forgot_password">Quên mật khẩu</string>
+    <string name="sign_in">Đăng nhập</string>
+    <string name="or_continue_with">Tiếp tục với</string>
+    <string name="dont_have_account">Chưa có tài khoản? Đăng kí ngay</string>
+    <string name="sign_up">Đăng kí</string>
+</resources>

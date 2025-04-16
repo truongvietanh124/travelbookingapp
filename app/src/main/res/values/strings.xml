@@ -1,13 +1,26 @@
 <resources>
-    <string name="app_name">project199.2</string>
+
     <string name="action_settings">Settings</string>
     <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label">First Fragment</string>
-    <string name="second_fragment_label">Second Fragment</string>
-    <string name="next">Next</string>
-    <string name="previous">Previous</string>
+    <string name="first_fragment_label" translatable="false">First Fragment</string>
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+    <string name="next" translatable="false">Next</string>
+    <string name="previous" translatable="false">Previous</string>
+    <string name="back_button" translatable="false">Back</string>
+    <string name="profile_title" translatable="false">Profile</string>
+    <string name="profile_image" translatable="false">Profile Image</string>
+    <string name="default_user_name" translatable="false">John Doe</string>
+    <string name="settings_button" translatable="false">Settings</string>
+    <string name="profile_screen_title" translatable="false">Profile Screen</string>
+    <string name="default_user_email" translatable="false">john.doe@example.com</string>
+    <string name="login_logout_button">Logout</string>
+    <string name="sologan">Travel To 36 Destinations</string>
+    <string name="welcome">Welcome </string>
+    <string name="loginbygg">Login with Google </string>
+    <string name="loginotp">Log in by phone number </string>
+    <string name="default_web_client_id" translatable="false">769484445271-gdi89vbn367v5fcas21ro5bov4spi1jn.apps.googleusercontent.com</string>
 
-    <string name="lorem_ipsum">
+    <string name="lorem_ipsum" translatable="false">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
         volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
         dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
@@ -43,13 +56,40 @@
         libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
         vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
     </string>
-    <string name="skybird">SKYBIRD</string>
-    <string name="intro_title">Fly anywhere easily\n without obstacles</string>
-    <string name="intro_subtitle">Experience the unparalleled\n freedom of unhindered\n flight as you effortlessly travers</string>
+    <string name="skybird" translatable="false">SKYBIRD</string>
+    <string name="intro_title">Fly anywhere easily  without obstacles</string>
+    <string name="intro_subtitle" translatable="false">Experience the unparalleled\n freedom of unhindered\n flight as you effortlessly travers</string>
     <string name="get_started">Get Started</string>
     <string name="passengers">Passengers</string>
     <string name="search_flights">Search Flights</string>
     <string name="from">from</string>
     <string name="to">to</string>
     <string name="toShort">to</string>
+    <string name="username" >Email</string>
+    <!-- Common -->
+    <string name="app_name" translatable="false">My App</string>
+    <string name="background_image" translatable="false">Background image</string>
+    <string name="app_logo" translatable="false">App logo</string>
+
+    <!-- Login Screen -->
+    <string name="username_or_email" translatable="false">Username or Email</string>
+    <string name="password">Password</string>
+    <string name="remember_me" translatable="false">Remember me</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="or_continue_with">or continue with</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="sign_up">SIGN UP</string>
+
+    <!-- Social Login -->
+    <string name="login_with_google" translatable="false">Login with Google</string>
+    <string name="login_with_facebook" translatable="false">Login with Facebook</string>
+    <string name="login_with_twitter" translatable="false">Login with Twitter</string>
+
+    <!-- Validation Errors -->
+    <string name="error_email_required" translatable="false">Email is required</string>
+    <string name="error_email_invalid" translatable="false">Invalid email format</string>
+    <string name="error_password_required" translatable="false">Password is required</string>
+    <string name="error_password_length" translatable="false">Password must be at least 6 characters</string>
+    <string name="login_with_instagram" translatable="false" />
 </resources>

@@ -6,4 +6,44 @@
     <color name="grey">#989797</color>
     <color name="lightBlue">#D0E8FF</color>
     <color name="lightGrey">#EFEFEF</color>
+    <!-- Primary Colors -->
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <!-- Login Screen Colors -->
+
+    <color name="gray_light">#CCCCCC</color>
+    <color name="gray_dark">#888888</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#CCCCCC</color>
+    <color name="text_hint">#888888</color>
+    <color name="text_error">#FF4444</color>
+
+    <!-- Background Colors -->
+    <color name="bg_dark">#1A1A1A</color>
+    <color name="bg_light">#F5F5F5</color>
+    <color name="bg_semi_transparent">#80000000</color>
+
+    <!-- Button Colors -->
+    <color name="button_primary">#03DAC5</color>
+    <color name="button_primary_pressed">#018786</color>
+    <color name="button_secondary">#FFFFFF</color>
+    <color name="button_secondary_pressed">#EEEEEE</color>
+
+    <!-- Social Media Brand Colors -->
+    <color name="google_red">#DB4437</color>
+    <color name="facebook_blue">#4267B2</color>
+    <color name="twitter_blue">#1DA1F2</color>
+    <color name="primary_color">#0075F1</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="blue_light">#90CAF9</color>
+
+
 </resources>
